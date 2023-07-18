@@ -1,0 +1,39 @@
+
+.row {
+    display: flex;
+}
+.a{
+    text-align: center;
+}
+.b{
+    display: flex;
+}
+.D{
+    height: 510px;
+}
+.E{
+    height: 340px;
+}
+.H{
+    height: 250px;
+    width: 10px;
+    display: flex;
+}
+.P{
+    height: 400px;
+    width: 50px;
+}
+.O{
+    height: 400px;
+    width: 50px;
+}
+.N{
+    display: flex;
+}
+.card h-100{
+    height: 40px;
+    width: 70px;
+}
+card group{
+    height: 60px;
+}
